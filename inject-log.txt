@@ -1,0 +1,3 @@
+2026-02-20 17:02:33 - Injected skill 'bootstrap' into C:\Users\ericj\AppData\Roaming\Claude\local-agent-mode-sessions\69fbe86e-6ae7-4a32-80e4-49caef88869a\1ed85a17-4dbf-4f2a-bcbe-5275dd128fcc\local_4d9b5708-5c22-4c07-91e5-cc613b804f03\.claude\skills
+2026-02-20 17:02:33 - Injected skill 'bootstrap' into C:\Users\ericj\AppData\Roaming\Claude\local-agent-mode-sessions\69fbe86e-6ae7-4a32-80e4-49caef88869a\1ed85a17-4dbf-4f2a-bcbe-5275dd128fcc\local_17ec1f96-1a3a-4d92-8f3b-4ae855ae9921\.claude\skills
+2026-02-20 17:02:33 - Injected skill 'bootstrap' into C:\Users\ericj\AppData\Roaming\Claude\local-agent-mode-sessions\69fbe86e-6ae7-4a32-80e4-49caef88869a\9d8944a3-f221-4b47-acd7-f2bc2090cb46\local_c6d7e65a-9392-46e5-b9e7-8f765c547010\.claude\skills
